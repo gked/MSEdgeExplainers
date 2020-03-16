@@ -12,6 +12,7 @@ We welcome public discussion in issues on these explainers. Thanks for your inte
 * [Native Caret Browsing Explainer](Accessibility/CaretBrowsing/explainer.md) and [Design Doc](Accessibility/CaretBrowsing/designDoc.md)
 * [UIA Explainer](Accessibility/UIA/explainer.md) and [intent-to-implement](Accessibility/UIA/i2i.md)
 * [WebVTT Caption Styling Explainer](WebVTTCaptionStyling/explainer.md)
+* [Tagged PDFs support Explainer](PDF/TaggedPDF/explainer.md)
 
 ## Audio
 * [Audio Stream Category](AudioStreamCategory/explainer.md)
@@ -20,6 +21,18 @@ We welcome public discussion in issues on these explainers. Thanks for your inte
 ## Controls
 * [Password Reveal Explainer](PasswordReveal/explainer.md)
 * [Standardized Form Controls](https://github.com/WICG/form-controls-components)
+
+## DevTools
+* [Stackable Overlays](https://docs.google.com/document/d/13MHkk0rgHJl_MAIgrouUef5k9fK7lZMI1IEiNIUKbD0/)
+* [Dual-screen Emulation](https://docs.google.com/document/d/1KMsmEXdjmn4h4iIl0n74N1EHxwwNUzh6R2p7GHrdtTI)
+* [High Contrast Simulation](https://docs.google.com/document/d/1SUx-hfodUUMAIwmcwIVYlpi9YDrLnkwW0T7yXUN8s50/)
+* [Customizable Keyboard Shortcuts](https://docs.google.com/document/d/1oOPSWPxCHvMoBZ0Fw9jwFZt6gP4lrsrsl8DEAp-Hy7o/)
+* [Settings Discoverability and Telemetry](https://docs.google.com/document/d/1n9AGuh0iWQoqgm749BJJELK-ckrkgnaB5jfgef9RWSA/)
+* [CSS Grid Tooling](https://docs.google.com/document/d/1s0AkeMOtlwqD74GJZtedxqOnttQtgj9oo8RjfVyaHP8/)
+* [Redux for State](https://docs.google.com/document/d/1yVI-ABz_PL5npfoNosvv1ZKOsXhUwSMKc30UHf2RyqM/)
+* [3D View]( https://docs.google.com/document/d/16xsQbr1YjjuoxHJlCsAaIzK-s4Ogd6fEuhrSajdVivA)
+* [Localization of the DevTools](https://docs.google.com/document/d/1L6TkT2-42MMQ72ZSBMFwUaq7M6mDgA2X0x8oHHKaV_U/)
+* [DevTools Infobar UI Refresh](https://docs.google.com/document/d/1GjpfPkdljH97IAaWfY8d9NBim1wrPPRaD8zMl8PWhLs/)
 
 ## Editing
 * [EditContext API Explainer](EditContext/explainer.md)
@@ -30,6 +43,7 @@ We welcome public discussion in issues on these explainers. Thanks for your inte
 * [pen-action Explainer](PenAction/explainer.md)
 * [Web Ink Enhancement Explainer](https://github.com/WICG/ink-enhancement/blob/master/README.md) ~~[archived initial explainer](WebInkEnhancement/explainer.md)~~
 * [Virtual Keyboard API](VirtualKeyboardAPI/explainer.md)
+* [Virtual Keyboard Policy](VirtualKeyboardPolicy/explainer.md)
 
 ## Fonts
 * [End User Defined Characters (EUDC) Explainer](EUDC/explainer.md)
@@ -57,6 +71,7 @@ We welcome public discussion in issues on these explainers. Thanks for your inte
 * [Install Time Permissions Prompt](InstallTimePermissionsPrompt/Explainer.md)
 * [Title Bar Customization Explainer](TitleBarCustomization/explainer.md)
 * [URL Protocol Handler Registration for PWAs Explainer](URLProtocolHandler/explainer.md)
+* [Version History](VersionHistory/explainer.md)
 
 ## Smooth Scrolling
   * [Impl Threaded Scrollbar scrolling intent-to-implement](https://groups.google.com/a/chromium.org/forum/#!topic/input-dev/6ACOSDoAik4)
